@@ -16,3 +16,11 @@ rank in top commiters (uzbekistan)
 - 👨‍💻 Python Developer | Backend Enthusiast  
 - 📍 Sharing my journey in tech & coding  
 - 🌱 Always learning something new
+
+
+
+## 🔥 Featured Projects  
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=repo1)](https://github.com/your_username/MusicBot)  
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=repo2)](https://github.com/your_username/iSfera)  
+
