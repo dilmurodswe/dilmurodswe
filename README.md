@@ -19,8 +19,4 @@ rank in top commiters (uzbekistan)
 
 
 
-## 🔥 Featured Projects  
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=repo1)](https://github.com/dilmurodcode/MusicBot)  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=repo2)](https://github.com/dilmurodcode/iSfera)  
 
