@@ -1,22 +1,42 @@
-rank in top commiters (uzbekistan)
+# Hi there, I'm Dilmurod 👋
 
 [![committers.top badge](https://user-badge.committers.top/uzbekistan/lazywk.svg)](https://user-badge.committers.top/uzbekistan/lazywk)
 
-### on socials
+<p align="left">
+  <a href="https://www.instagram.com/dilmurodeshmamatov_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://t.me/dilmurodcode" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.linkedin.com/in/dilmurodeshmamatov/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-<a href="https://www.instagram.com/dilmurodeshmamatov_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
-<a href="https://t.me/dilmurodcode" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
-<a href="https://www.linkedin.com/in/dilmurodeshmamatov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
-
-## 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Rashidov01/Rashidov01/main/gif-11.gif" width="350" height="250"/>
 
-**Talking about Personal Stuffs:**
-### About Me  
-- 👨‍💻 Python Developer | Backend Enthusiast  
-- 📍 Sharing my journey in tech & coding  
-- 🌱 Always learning something new
+---
+
+### ‍💻 About Me
+
+- 💼 **Python Developer** | Backend Enthusiast  
+- 🌐 Building Telegram Bots, APIs, and automation tools  
+- 🎯 Focused on writing clean, efficient, and scalable code  
+- 📚 Constantly learning new technologies and improving skills  
+
+---
+
+### ⚙️ Tech Stack
+
+- **Languages:** Python, JavaScript  
+- **Frameworks:** FastAPI, Flask, Aiogram  
+- **Tools:** Git, Docker, Postman  
+- **Databases:** PostgreSQL, SQLite  
+- **Others:** REST APIs, Web scraping, Celery
 
 
+### 📬 Stay Connected
 
-
+I love connecting with like-minded people and sharing my journey in tech.  
+Feel free to reach out, ask questions, or collaborate on e
