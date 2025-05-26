@@ -23,18 +23,6 @@
 - 💼 **Python Developer** | Backend Enthusiast  
 - 🌐 Building Telegram Bots, APIs, and automation tools  
 - 🎯 Focused on writing clean, efficient, and scalable code  
-- 📚 Constantly learning new technologies and improving skills  
-
----
-
-### ⚙️ Tech Stack
-
-- **Languages:** Python, JavaScript  
-- **Frameworks:** FastAPI, Flask, Aiogram  
-- **Tools:** Git, Docker, Postman  
-- **Databases:** PostgreSQL, SQLite  
-- **Others:** REST APIs, Web scraping, Celery
-
 
 ### 📬 Stay Connected
 
