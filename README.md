@@ -5,7 +5,6 @@
 
 
 <h1 align="center">👋 Hello, I'm Eshmamatov Dilmurod</h1>
-<h3 align="center">A passionate backend developer from Tashkent, Uzbekistan</h3>
 
 
 <p align="left">
