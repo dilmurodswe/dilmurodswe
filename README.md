@@ -1,6 +1,7 @@
-# I'm Dilmurod 👋
-<img align="right" alt="Python Developer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="150" height="150"/>
-
+<p align="center">Add commentMore actions
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76B15&center=true&vCenter=true&width=600&lines=👋+Assalomu+alaykum,+I'm+Eshmamatov+Dilmurod;Backend+Developer+from+Tashkent,+Uzbekistan;❤️+Clean+Code+and+Real-world+Problems+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76B15&center=true&vCenter=true&width=600&lines=👋+Assalomu+alaykum,+I'm+Eshmamatov+Dilmurod;Backend+Developer+from+Tashkent,+Uzbekistan;❤️+Clean+Code+and+Real-world+Problems+🚀" alt="Typing SVG" />
+</p>
 
 <p align="left">
   <a href="https://www.instagram.com/dilmurodeshmamatov_/" target="_blank">
