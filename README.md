@@ -1,4 +1,5 @@
 # I'm Dilmurod 👋
+<img align="right" alt="Python Developer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="150" height="150"/>
 
 
 <p align="left">
