@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Python Animated" width="150" />
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/uzbekistan/lazywk.svg)](https://user-badge.committers.top/uzbekistan/lazywk)
 
 <p align="left">
   <a href="https://www.instagram.com/dilmurodeshmamatov_/" target="_blank">
@@ -27,8 +26,6 @@
 
 - 💼 **Python Developer** | Backend Enthusiast  
 - 🌐 Building Telegram Bots, APIs, and automation tools  
-- 🎯 Focused on writing clean, efficient, and scalable code  
-- 🐍 Passionate about Python and open-source contributions
 
 ---
 
@@ -44,11 +41,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
----
 
-### 🔥 Coding in action
+
+### 💡 Motivation & Philosophy
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WRQBXSCnEFJIu/giphy.gif" alt="Typing code" width="180" />
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Terminal hacking" width="180" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Keep Going" width="200" />
 </p>
+
