@@ -1,4 +1,4 @@
-# Hi there, I'm Dilmurod 👋
+I'm Dilmurod 👋
 
 
 
@@ -16,15 +16,6 @@
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
-
-### ‍💻 About Me
-
-- 💼 **Python Developer** | Backend Enthusiast  
-- 🌐 Building Telegram Bots, APIs, and automation tools  
-
----
 
 ### ⚡ Skills & Technologies
 
