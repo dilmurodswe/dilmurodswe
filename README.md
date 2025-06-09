@@ -40,7 +40,10 @@
 
 
 
+### 💡 Motivation & Philosophy
+
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Keep Going" width="600" height="100" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Never Give Up" width="400" height="150" />
 </p>
+
 
