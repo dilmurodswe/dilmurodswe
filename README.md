@@ -43,6 +43,6 @@
 ### 💡 Motivation & Philosophy
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Keep Going" width="200" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Keep Going" width="600" />
 </p>
 
