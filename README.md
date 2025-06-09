@@ -1,6 +1,14 @@
-<p align="center">Add commentMore actions
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76B15&center=true&vCenter=true&width=600&lines=👋+Assalomu+alaykum,+I'm+Eshmamatov+Dilmurod;Backend+Developer+from+Tashkent,+Uzbekistan;❤️+Clean+Code+and+Real-world+Problems+🚀" alt="Typing SVG" />
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76B15&center=true&vCenter=true&width=600&lines=👋+Assalomu+alaykum,+I'm+Eshmamatov+Dilmurod;Backend+Developer+from+Tashkent,+Uzbekistan;❤️+Clean+Code+and+Real-world+Problems+🚀" alt="Typing SVG" />
+</p>
+
+
+
+<h1 align="center">👋 Assalomu alaykum, I'm Eshmamatov Dilmurod</h1>
+<h3 align="center">A passionate backend developer from Tashkent, Uzbekistan</h3>
+
+<p align="center">
+  I love solving real-world problems with clean code 🚀
 </p>
 
 <p align="left">
