@@ -1,8 +1,5 @@
 # Hi there, I'm Dilmurod 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Python Animated" width="150" />
-</p>
 
 
 <p align="left">
