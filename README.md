@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76B15&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Eshmamatov+Dilmurod;Backend+Developer+from+Tashkent,+Uzbekistan;❤️+Clean+Code+and+Real-world+Problems+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Open-source+Contributor;FastAPI+%7C+SQLAlchemy+%7C+PostgreSQL;Never+stop+learning!" alt="Typing SVG" />
 </p>
-
 
 
 <h1 align="center">👋 Hi, I'm Eshmamatov Dilmurod</h1>
@@ -36,7 +35,5 @@
 ### 💡 Motivation & Philosophy
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Never Give Up" width="400" height="150" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Flow" width="420"/>
 </p>
-
-
