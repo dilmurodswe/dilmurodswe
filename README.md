@@ -12,9 +12,12 @@
   <a href="https://www.linkedin.com/in/dilmurodeshmamatov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/lazywk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Rashidov01/Rashidov01/main/gif-11.gif" width="350" height="250"/>
+<img align="right" alt="Python Developer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="150" height="150"/>
 
 ---
 
@@ -23,8 +26,22 @@
 - 💼 **Python Developer** | Backend Enthusiast  
 - 🌐 Building Telegram Bots, APIs, and automation tools  
 - 🎯 Focused on writing clean, efficient, and scalable code  
+- 🐍 Passionate about Python and open-source contributions
 
-### 📬 Stay Connected
+---
 
-I love connecting with like-minded people and sharing my journey in tech.  
-Feel free to reach out, ask questions, or collaborate on e
+### ⚡ Skills & Technologies
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+
