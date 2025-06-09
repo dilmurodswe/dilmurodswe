@@ -1,5 +1,9 @@
 # Hi there, I'm Dilmurod 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Python Animated" width="150" />
+</p>
+
 [![committers.top badge](https://user-badge.committers.top/uzbekistan/lazywk.svg)](https://user-badge.committers.top/uzbekistan/lazywk)
 
 <p align="left">
@@ -16,8 +20,6 @@
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-<img align="right" alt="Python Developer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="150" height="150"/>
 
 ---
 
@@ -44,4 +46,9 @@
 
 ---
 
+### 🔥 Coding in action
 
+<p align="center">
+  <img src="https://media.giphy.com/media/WRQBXSCnEFJIu/giphy.gif" alt="Typing code" width="180" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Terminal hacking" width="180" />
+</p>
