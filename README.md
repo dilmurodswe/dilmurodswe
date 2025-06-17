@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Eshmamatov Dilmurod</h1>
+<h1 align="center">👋 Hi, I'm Dilmurod</h1>
 
 
 <p align="left">
