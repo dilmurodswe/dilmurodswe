@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Open-source+Contributor;FastAPI+%7C+SQLAlchemy+%7C+PostgreSQL;Never+stop+learning!" alt="Typing SVG" />
-</p>
-
-
 <h1 align="center">👋 Hi, I'm Eshmamatov Dilmurod</h1>
 
 
@@ -21,17 +16,26 @@
 
 ----------
 
-### ⚡ Skills & Technologies
+[//]: # (### ⚡ Skills & Technologies)
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
+[//]: # ()
+[//]: # (<p>)
+
+[//]: # (  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>)
+
+[//]: # (  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>)
+
+[//]: # (  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40"/>)
+
+[//]: # (  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>)
+
+[//]: # (  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>)
+
+[//]: # (  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>)
+
+[//]: # (  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>)
+
+[//]: # (</p>)
 
 
 
@@ -47,6 +51,9 @@
 </div>
 
 <p align="center"> 
+
   Profile views<br>
+
   <img src="https://profile-counter.glitch.me/lazywk/count.svg" />
+
 </p>
