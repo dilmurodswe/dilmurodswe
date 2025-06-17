@@ -50,10 +50,10 @@
   </p>
 </div>
 
-<h align="center"> 
+<p align="center"> 
 
   Profile views<br>
 
   <img src="https://profile-counter.glitch.me/lazywk/count.svg" />
 
-</h>
+</p>
