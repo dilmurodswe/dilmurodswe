@@ -13,7 +13,7 @@
   </a>
 </p>
 
-📈 **My GitHub Stats:"**
+📈 **My GitHub Stats:**
 
 <div display="flex">
   <p>
