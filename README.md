@@ -13,19 +13,29 @@
   </a>
 </p>
 
-📈 **My GitHub Stats:**
+[//]: # (📈 **My GitHub Stats:**)
 
-<div display="flex">
-  <p>
-    <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=dilmurodcode&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
-    <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilmurodcode&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
-  </p>
-</div>
+[//]: # ()
+[//]: # (<div display="flex">)
 
-<p align="center"> 
+[//]: # (  <p>)
 
-  Profile views<br>
+[//]: # (    <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=dilmurodcode&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />)
 
-  <img src="https://profile-counter.glitch.me/lazywk/count.svg" />
+[//]: # (    <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilmurodcode&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>)
 
-</p>
+[//]: # (  </p>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (<p align="center"> )
+
+[//]: # ()
+[//]: # (  Profile views<br>)
+
+[//]: # ()
+[//]: # (  <img src="https://profile-counter.glitch.me/lazywk/count.svg" />)
+
+[//]: # ()
+[//]: # (</p>)
