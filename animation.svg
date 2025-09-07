@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Backend animation: server to database">
+  <defs>
+    <linearGradient id="gServer" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+    <linearGradient id="gDB" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#0ea5a4"/>
+      <stop offset="1" stop-color="#036b6a"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feBlend in="SourceGraphic" in2="blur"/>
+    </filter>
+  </defs>
+
+  <!-- Title (hidden visually but for accessibility) -->
+  <title>Backend flow: server → packets → database</title>
+
+  <!-- Server stack (left) -->
+  <g transform="translate(40,40)">
+    <rect x="0" y="0" width="120" height="140" rx="10" fill="url(#gServer)"/>
+    <rect x="10" y="10" width="100" height="30" rx="6" fill="#152238"/>
+    <rect x="10" y="50" width="100" height="30" rx="6" fill="#11304a"/>
+    <rect x="10" y="90" width="100" height="30" rx="6" fill="#0b2436"/>
+    <text x="60" y="165" font-family="Segoe UI, Roboto, Arial" font-size="12" fill="#9fb3d6" text-anchor="middle">Server</text>
+  </g>
+
+  <!-- Packets path (middle area) -->
+  <g id="packets" filter="url(#soft)">
+    <!-- three moving packets (circles) -->
+    <circle r="10" cx="200" cy="70" fill="#ffd166" opacity="0.95">
+      <animate attributeName="cx" from="200" to="460" dur="2.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.2s" repeatCount="indefinite" />
+    </circle>
+
+    <circle r="8" cx="180" cy="110" fill="#06d6a0" opacity="0.9">
+      <animate attributeName="cx" from="180" to="480" dur="2.6s" begin="0.4s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="110;90;110" dur="2.6s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+
+    <circle r="6" cx="160" cy="150" fill="#4cc9f0" opacity="0.85">
+      <animate attributeName="cx" from="160" to="500" dur="3.0s" begin="0.9s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;0.9;0.9;0" dur="3.0s" begin="0.9s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- thin dashed path line -->
+    <path d="M160 70 C 260 40, 420 40, 520 80" fill="none" stroke="#334155" stroke-width="1.5" stroke-dasharray="6 6" opacity="0.6"/>
+    <path d="M160 150 C 260 170, 420 170, 520 130" fill="none" stroke="#334155" stroke-width="1.2" stroke-dasharray="4 6" opacity="0.45"/>
+  </g>
+
+  <!-- Database cylinder (right) -->
+  <g transform="translate(520,50)" >
+    <!-- top ellipse -->
+    <ellipse cx="60" cy="0" rx="60" ry="18" fill="url(#gDB)" />
+    <!-- body -->
+    <rect x="0" y="0" width="120" height="80" rx="2" fill="#064e4d" transform="translate(0, -18)"/>
+    <!-- bottom ellipse (same center but slightly lower) -->
+    <ellipse cx="60" cy="80-18" rx="60" ry="18" fill="#034b4a" transform="translate(0, -18)"/>
+    <!-- pulsate animation on top ellipse -->
+    <ellipse cx="60" cy="0" rx="48" ry="12" fill="#16a34a" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.25;0.08" dur="1.8s" repeatCount="indefinite"/>
+    </ellipse>
+    <text x="60" y="85" font-family="Segoe UI, Roboto, Arial" font-size="12" fill="#bfece7" text-anchor="middle">Database</text>
+  </g>
+
+  <!-- small labels -->
+  <text x="100" y="30" font-family="Segoe UI, Roboto, Arial" font-size="12" fill="#9fb3d6">API</text>
+  <text x="360" y="30" font-family="Segoe UI, Roboto, Arial" font-size="12" fill="#9fb3d6" text-anchor="middle">Network / Queue</text>
+
+  <!-- subtle background rounded rectangle -->
+  <rect x="8" y="8" width="684" height="204" rx="12" fill="none" stroke="#0f172a" opacity="0.06"/>
+</svg>

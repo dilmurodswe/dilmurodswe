@@ -12,3 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+<p align="center">
+  <img src="./animation.svg" alt="Backend animation" width="720"/>
+</p>
