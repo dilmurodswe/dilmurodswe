@@ -5,7 +5,6 @@
   <img src="./animation.svg" alt="Backend animation" width="720"/>
 </p>
 
-
 <p align="left">
   <a href="https://www.instagram.com/dilmurodeshmamatov_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
