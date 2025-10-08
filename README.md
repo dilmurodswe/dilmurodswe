@@ -12,7 +12,7 @@
   <a href="https://t.me/Im_dimaa" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://www.linkedin.com/in/dilmurod-eshmamatov-867517374/" target="_blank">
+  <a href="https://www.linkedin.com/in/dilmurodeshmamatov1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
