@@ -5,15 +5,29 @@
   <img src="./animation.svg" alt="Backend animation" width="720"/>
 </p>
 
-<p align="left">
-  <a href="https://www.instagram.com/dilmurodeshmamatov_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://t.me/Im_dimaa" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://www.linkedin.com/in/dilmurodeshmamatov1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Social Media Links</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+  <div class="flex justify-center space-x-4 py-4">
+    <a href="https://www.instagram.com/dilmurodeshmamatov_/" target="_blank" class="group relative">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" class="transition-transform duration-300 group-hover:scale-110"/>
+      <span class="absolute -bottom-8 left-1/2 transform -translate-x-1/2 text-xs text-gray-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300">Instagram</span>
+    </a>
+    <a href="https://t.me/Im_dimaa" target="_blank" class="group relative">
+      <img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram" class="transition-transform duration-300 group-hover:scale-110"/>
+      <span class="absolute -bottom-8 left-1/2 transform -translate-x-1/2 text-xs text-gray-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300">Telegram</span>
+    </a>
+    <a href="https://www.linkedin.com/in/dilmurodeshmamatov1/" target="_blank" class="group relative">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" class="transition-transform duration-300 group-hover:scale-110"/>
+      <span class="absolute -bottom-8 left-1/2 transform -translate-x-1/2 text-xs text-gray-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300">LinkedIn</span>
+    </a>
+  </div>
+</body>
+</html>
 
