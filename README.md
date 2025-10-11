@@ -5,15 +5,6 @@
   <img src="./animation.svg" alt="Backend animation" width="720"/>
 </p>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Social Media Links</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body>
   <div class="flex justify-center space-x-4 py-4">
     <a href="https://www.instagram.com/dilmurodeshmamatov_/" target="_blank" class="group relative">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" class="transition-transform duration-300 group-hover:scale-110"/>
@@ -28,6 +19,4 @@
       <span class="absolute -bottom-8 left-1/2 transform -translate-x-1/2 text-xs text-gray-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300">LinkedIn</span>
     </a>
   </div>
-</body>
-</html>
 
