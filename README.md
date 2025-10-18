@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/dilmuroddev/" target="_blank">
+  <a href="https://www.instagram.com/dilmurodeshmamatov_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://t.me/eshmamatov_v" target="_blank">
@@ -16,4 +16,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 
